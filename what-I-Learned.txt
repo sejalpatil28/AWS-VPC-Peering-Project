@@ -1,0 +1,7 @@
+Through this project, I gained practical knowledge of AWS networking and learned how different AWS components work together to establish secure communication between networks. I understood the concepts of VPC CIDR blocks, subnet associations, route tables, VPC Peering, and security groups.
+
+I also gained hands-on experience in accessing private EC2 instances using a Bastion Host, configuring SSH ProxyJump, and testing network connectivity through forward and reverse ping tests.
+
+Additionally, I learned how to troubleshoot network connectivity issues systematically, especially when an active VPC Peering connection does not guarantee successful communication. This project also helped me understand the importance of removing unused AWS resources after completing practical work to prevent unnecessary costs.
+
+Overall, this project improved my practical understanding of AWS networking, cloud security, connectivity, and troubleshooting.
